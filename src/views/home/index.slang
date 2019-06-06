@@ -1,0 +1,8 @@
+.row.justify-content-center
+  .col-sm-12.col-md-6
+    h2 = t "welcome_to_amber"
+    p Thank you for trying out the Amber Framework.  We are working hard to provide a super fast and reliable framework that provides all the productivity tools you are used to without sacrificing the speed.
+
+    p Now, it's time fr our Genealogic Tree App
+    .list-group
+     
